@@ -6,7 +6,8 @@
   <a href = "https://twitter.com/chhekellydev"><img src = "https://user-images.githubusercontent.com/102538779/165004822-6c6a911f-4ea3-4d20-9623-61957d402f30.png" alt = "Twitter"></a>
 </div>
 I am a Boston based software engineer at Resilient Coders; committed to making meaningful change through tech; with a background in Biotech Manufacturing and math.
-
+/n
+/n
 See <a href = "https://kelly-chhe.netlify.app/">my website</a> for more information.
 
 <!---
