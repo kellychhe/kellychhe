@@ -7,7 +7,10 @@
 </div>
 I am a Boston based software engineer at Resilient Coders; committed to making meaningful change through tech; with a background in Biotech Manufacturing and math.
 
-<p>See <a href = "https://kelly-chhe.netlify.app/">my website</a> for more information.</p>
+<br>
+<br>
+
+See <a href = "https://kelly-chhe.netlify.app/">my website</a> for more information.
 
 <!---
 kellychhe/kellychhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
