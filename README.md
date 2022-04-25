@@ -11,7 +11,6 @@
 I am a Boston based software engineer at Resilient Coders; committed to making meaningful change through tech; with a background in Biotech Manufacturing and math.
 
 <br>
-<br>
 
 See <a href = "https://kelly-chhe.netlify.app/">my website</a> for more information.
 
