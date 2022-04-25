@@ -4,7 +4,7 @@
 
 I am a Boston based software engineer at Resilient Coders committed to making meaningful change through tech.
 
-[![Portfolio](https://user-images.githubusercontent.com/102538779/165003623-3ddfbe11-0b3a-4a65-ad0e-0c5b6921a266.png)](https://kelly-chhe.netlify.app/)
+[![link](https://user-images.githubusercontent.com/102538779/165003801-6761e523-2a60-4293-ad80-d1b0cdaccf93.png)](https://kelly-chhe.netlify.app/)
 
 [![linkedin](https://user-images.githubusercontent.com/102538779/165003698-cdf99de5-6f01-4006-86e0-caf4bb90c82d.png)](https://www.linkedin.com/in/kelly-chhe/)
 
